@@ -1,38 +1,49 @@
-import json
-import xml.etree.ElementTree as ET
+name: Generate RSS Feed
 
-# Path to the JSON file
-json_file = "results.json"  # Ensure results.json exists in the repository
-rss_file = "rss_feed.xml"
+on:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: "0 0 * * *" # Runs daily at midnight UTC
 
-# Load the JSON data
-with open(json_file, "r") as file:
-    data = json.load(file)
+permissions:
+  contents: write  # Explicitly grant write permissions to the workflow
 
-# Create the RSS feed
-rss = ET.Element("rss", version="2.0")
-channel = ET.SubElement(rss, "channel")
+jobs:
+  generate-rss:
+    runs-on: ubuntu-latest
 
-# Add channel details
-ET.SubElement(channel, "title").text = "Coca-Cola Products Search Results"
-ET.SubElement(channel, "link").text = "https://cdn-gateflipp.flippback.com"
-ET.SubElement(channel, "description").text = "Search results for Coca-Cola products with photos"
+    steps:
+      # Step 1: Check out the repository
+      - name: Checkout repository
+        uses: actions/checkout@v3
 
-# Add items to the RSS feed
-for item in data.get("ecom_items", []):
-    name = item.get("name", "No Title")
-    price = item.get("current_price", "N/A")
-    title = f"{name} - ${price}"  # Add price to the title
+      # Step 2: Set up Python
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
 
-    rss_item = ET.SubElement(channel, "item")
-    ET.SubElement(rss_item, "title").text = title
-    ET.SubElement(rss_item, "link").text = item.get("image_url", "")
-    ET.SubElement(rss_item, "description").text = item.get("description", "No Description")
-    ET.SubElement(rss_item, "price").text = f"${price}"
-    if "image_url" in item:
-        image = ET.SubElement(rss_item, "enclosure", type="image/png")
-        image.set("url", item["image_url"])
+      # Step 3: Install dependencies
+      - name: Install dependencies
+        run: pip install requests xmltodict
 
-# Save the RSS feed to a file
-rss_tree = ET.ElementTree(rss)
-rss_tree.write(rss_file, encoding="utf-8", xml_declaration=True)
+      # Step 4: Generate results.json
+      - name: Generate results.json
+        run: python generate_results.py
+
+      # Step 5: Generate RSS Feed
+      - name: Generate RSS Feed
+        run: python generate_rss_feed.py
+
+      # Step 6: Commit and push the generated files
+      - name: Commit and Push Changes
+        env:
+          TOKEN: ${{ secrets.PAT_TOKEN }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add results.json rss_feed.xml
+          git commit -m "Update results.json and RSS feed [skip ci]" || echo "No changes to commit"
+          git push https://x-access-token:${{ secrets.PAT_TOKEN }}@github.com/robertheadley/Rss-Generator---Flipp.git
