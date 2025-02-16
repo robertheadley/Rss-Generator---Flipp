@@ -6,35 +6,6 @@
         {
             "average_rating": null,
             "current_price": 5.5,
-            "description": "Soda. Pop. Soft drink. Sparkling beverage. Whatever you call it, nothing compares to the refreshing, crisp taste of Coca-Cola Original Taste, the delicious soda you know and love. Enjoy with friends, on the go or with a meal. Whatever the occasion, wherever you are, Coca-Cola Original Taste makes life's special moments a little bit better. Every sip, every \"ahhh,\" every smile-find that feeling with Coca-Cola Original Taste. Best enjoyed ice-cold for maximum refreshment. Grab a Coca-Cola Original Taste, take a sip and find your \"ahhh\" moment. Enjoy Coca-Cola Original Taste.",
-            "display": "show",
-            "global_id": "3e948e32-80b7-5589-84ef-c3649faf29a6",
-            "global_id_int": 4092889102332077,
-            "id": 34389198,
-            "image_url": "https://f.wishabi.net/item-assets/2662/5b194632af4b429ffadddce570a06c1d/small.png",
-            "item_id": "1002077",
-            "item_type": "ecom",
-            "merchant": "Blain's Farm & Fleet",
-            "merchant_id": 2662,
-            "merchant_logo": "https://images.wishabi.net/merchants/2662/1507146688/2662.jpg",
-            "name": "Coca-Cola 6-Pack 16.9 oz Classic",
-            "original_price": 7.99,
-            "return_info": {
-                "details_url": "",
-                "tag_line": ""
-            },
-            "score": 377.58966,
-            "shipping_info": {
-                "details_url": "",
-                "tag_line": ""
-            },
-            "shipping_tag_line": "",
-            "sku": "1002077",
-            "total_reviews": 0
-        },
-        {
-            "average_rating": null,
-            "current_price": 5.5,
             "description": "Are you looking for a satisfying a delicious drink? Look no further than the Coca-Cola 6-Pack 16.9 oz Cherry Coke. This drink goes perfectly with any meal or when you're on the go.",
             "display": "show",
             "global_id": "25eeb99a-035c-590d-bffb-b9bd5c44e1e8",
@@ -52,13 +23,42 @@
                 "details_url": "",
                 "tag_line": ""
             },
-            "score": 375.0488,
+            "score": 378.66486,
             "shipping_info": {
                 "details_url": "",
                 "tag_line": ""
             },
             "shipping_tag_line": "",
             "sku": "1254418",
+            "total_reviews": 0
+        },
+        {
+            "average_rating": null,
+            "current_price": 5.5,
+            "description": "Soda. Pop. Soft drink. Sparkling beverage. Whatever you call it, nothing compares to the refreshing, crisp taste of Coca-Cola Original Taste, the delicious soda you know and love. Enjoy with friends, on the go or with a meal. Whatever the occasion, wherever you are, Coca-Cola Original Taste makes life's special moments a little bit better. Every sip, every \"ahhh,\" every smile-find that feeling with Coca-Cola Original Taste. Best enjoyed ice-cold for maximum refreshment. Grab a Coca-Cola Original Taste, take a sip and find your \"ahhh\" moment. Enjoy Coca-Cola Original Taste.",
+            "display": "show",
+            "global_id": "3e948e32-80b7-5589-84ef-c3649faf29a6",
+            "global_id_int": 4092889102332077,
+            "id": 34389198,
+            "image_url": "https://f.wishabi.net/item-assets/2662/5b194632af4b429ffadddce570a06c1d/small.png",
+            "item_id": "1002077",
+            "item_type": "ecom",
+            "merchant": "Blain's Farm & Fleet",
+            "merchant_id": 2662,
+            "merchant_logo": "https://images.wishabi.net/merchants/2662/1507146688/2662.jpg",
+            "name": "Coca-Cola 6-Pack 16.9 oz Classic",
+            "original_price": 7.99,
+            "return_info": {
+                "details_url": "",
+                "tag_line": ""
+            },
+            "score": 381.3576,
+            "shipping_info": {
+                "details_url": "",
+                "tag_line": ""
+            },
+            "shipping_tag_line": "",
+            "sku": "1002077",
             "total_reviews": 0
         },
         {
@@ -81,7 +81,7 @@
                 "details_url": "",
                 "tag_line": ""
             },
-            "score": 378.22366,
+            "score": 381.8141,
             "shipping_info": {
                 "details_url": "",
                 "tag_line": ""
@@ -110,42 +110,13 @@
                 "details_url": "",
                 "tag_line": ""
             },
-            "score": 377.58966,
+            "score": 381.3576,
             "shipping_info": {
                 "details_url": "",
                 "tag_line": ""
             },
             "shipping_tag_line": "",
             "sku": "1002080",
-            "total_reviews": 0
-        },
-        {
-            "average_rating": null,
-            "current_price": 7.49,
-            "description": "Soda. Pop. Soft drink. Sparkling beverage. Whatever you call it, nothing compares to the refreshing, crisp taste of Coca-Cola Original Taste, the delicious soda you know and love. Enjoy with friends, on the go or with a meal. Whatever the occasion, wherever you are, Coca-Cola Original Taste makes life's special moments a little bit better. Every sip, every \"ahhh,\" every smile-find that feeling with Coca-Cola Original Taste. Best enjoyed ice-cold for maximum refreshment. Grab a Coca-Cola Original Taste, take a sip and find your \"ahhh\" moment. Enjoy Coca-Cola Original Taste.",
-            "display": "show",
-            "global_id": "fb084ea1-3acf-5b38-86dd-a1c1897eb226",
-            "global_id_int": 7635558843201421,
-            "id": 39208472,
-            "image_url": "https://f.wishabi.net/item-assets/2662/78d02a03cf9e699bc9cc6c99581159bd/small.png",
-            "item_id": "1494345",
-            "item_type": "ecom",
-            "merchant": "Blain's Farm & Fleet",
-            "merchant_id": 2662,
-            "merchant_logo": "https://images.wishabi.net/merchants/2662/1507146688/2662.jpg",
-            "name": "Coca-Cola 10-Pack Classic Mini Coke",
-            "original_price": 8.99,
-            "return_info": {
-                "details_url": "",
-                "tag_line": ""
-            },
-            "score": 390.94934,
-            "shipping_info": {
-                "details_url": "",
-                "tag_line": ""
-            },
-            "shipping_tag_line": "",
-            "sku": "1494345",
             "total_reviews": 0
         },
         {
@@ -168,13 +139,42 @@
                 "details_url": "",
                 "tag_line": ""
             },
-            "score": 390.94934,
+            "score": 394.98822,
             "shipping_info": {
                 "details_url": "",
                 "tag_line": ""
             },
             "shipping_tag_line": "",
             "sku": "1494350",
+            "total_reviews": 0
+        },
+        {
+            "average_rating": null,
+            "current_price": 7.49,
+            "description": "Soda. Pop. Soft drink. Sparkling beverage. Whatever you call it, nothing compares to the refreshing, crisp taste of Coca-Cola Original Taste, the delicious soda you know and love. Enjoy with friends, on the go or with a meal. Whatever the occasion, wherever you are, Coca-Cola Original Taste makes life's special moments a little bit better. Every sip, every \"ahhh,\" every smile-find that feeling with Coca-Cola Original Taste. Best enjoyed ice-cold for maximum refreshment. Grab a Coca-Cola Original Taste, take a sip and find your \"ahhh\" moment. Enjoy Coca-Cola Original Taste.",
+            "display": "show",
+            "global_id": "fb084ea1-3acf-5b38-86dd-a1c1897eb226",
+            "global_id_int": 7635558843201421,
+            "id": 39208472,
+            "image_url": "https://f.wishabi.net/item-assets/2662/78d02a03cf9e699bc9cc6c99581159bd/small.png",
+            "item_id": "1494345",
+            "item_type": "ecom",
+            "merchant": "Blain's Farm & Fleet",
+            "merchant_id": 2662,
+            "merchant_logo": "https://images.wishabi.net/merchants/2662/1507146688/2662.jpg",
+            "name": "Coca-Cola 10-Pack Classic Mini Coke",
+            "original_price": 8.99,
+            "return_info": {
+                "details_url": "",
+                "tag_line": ""
+            },
+            "score": 394.98822,
+            "shipping_info": {
+                "details_url": "",
+                "tag_line": ""
+            },
+            "shipping_tag_line": "",
+            "sku": "1494345",
             "total_reviews": 0
         },
         {
@@ -197,42 +197,13 @@
                 "details_url": "",
                 "tag_line": ""
             },
-            "score": 391.63754,
+            "score": 395.69464,
             "shipping_info": {
                 "details_url": "",
                 "tag_line": ""
             },
             "shipping_tag_line": "",
             "sku": "446510",
-            "total_reviews": 0
-        },
-        {
-            "average_rating": null,
-            "current_price": 8.49,
-            "description": "The great taste of Coca-Cola has stood the test of time. And Coca-Cola Zero Sugar brings you a Coca-Cola taste with zero sugar. Between the delicious taste and refreshing fizz, it's sure to give you that \"ahhh\" moment whenever you want it.",
-            "display": "show",
-            "global_id": "49ba40a7-5ef4-57d7-b8d1-c24ad66c3f5f",
-            "global_id_int": 7903628100766045,
-            "id": 34393843,
-            "image_url": "https://f.wishabi.net/item-assets/2662/eb9ebd8e69c8ed78ff6d8f6a4e1e0aca/small.png",
-            "item_id": "496707",
-            "item_type": "ecom",
-            "merchant": "Blain's Farm & Fleet",
-            "merchant_id": 2662,
-            "merchant_logo": "https://images.wishabi.net/merchants/2662/1507146688/2662.jpg",
-            "name": "Coca-Cola 12-Pack Zero Sugar Coke",
-            "original_price": 10.49,
-            "return_info": {
-                "details_url": "",
-                "tag_line": ""
-            },
-            "score": 388.5898,
-            "shipping_info": {
-                "details_url": "",
-                "tag_line": ""
-            },
-            "shipping_tag_line": "",
-            "sku": "496707",
             "total_reviews": 0
         },
         {
@@ -255,13 +226,71 @@
                 "details_url": "",
                 "tag_line": ""
             },
-            "score": 388.40848,
+            "score": 392.29547,
             "shipping_info": {
                 "details_url": "",
                 "tag_line": ""
             },
             "shipping_tag_line": "",
             "sku": "1254424",
+            "total_reviews": 0
+        },
+        {
+            "average_rating": null,
+            "current_price": 8.49,
+            "description": "The great taste of Coca-Cola has stood the test of time. And Coca-Cola Zero Sugar brings you a Coca-Cola taste with zero sugar. Between the delicious taste and refreshing fizz, it's sure to give you that \"ahhh\" moment whenever you want it.",
+            "display": "show",
+            "global_id": "49ba40a7-5ef4-57d7-b8d1-c24ad66c3f5f",
+            "global_id_int": 7903628100766045,
+            "id": 34393843,
+            "image_url": "https://f.wishabi.net/item-assets/2662/eb9ebd8e69c8ed78ff6d8f6a4e1e0aca/small.png",
+            "item_id": "496707",
+            "item_type": "ecom",
+            "merchant": "Blain's Farm & Fleet",
+            "merchant_id": 2662,
+            "merchant_logo": "https://images.wishabi.net/merchants/2662/1507146688/2662.jpg",
+            "name": "Coca-Cola 12-Pack Zero Sugar Coke",
+            "original_price": 10.49,
+            "return_info": {
+                "details_url": "",
+                "tag_line": ""
+            },
+            "score": 392.56616,
+            "shipping_info": {
+                "details_url": "",
+                "tag_line": ""
+            },
+            "shipping_tag_line": "",
+            "sku": "496707",
+            "total_reviews": 0
+        },
+        {
+            "average_rating": null,
+            "current_price": 16.98,
+            "description": "Refreshing Mini Variety PackThis Mini Variety Pack is the perfect addition to various occasions. Open a box and share these refreshing drinks with your friends and family for a break that everyone will enjoy. This pack features three delightful Coca-Cola brands: Sprite, Cherry Coke, and Fanta Orange.Sprite: Real Lemon-Lime FlavorQuench your thirst with the cool and crisp lemon-lime flavor of Sprite. It's a taste that stands apart, cutting through the noise to keep you invigorated and inspired. Sprite keeps it real with no caffeine, leaving you with an iconic flavor and the freedom to think of what's next.Coca-Cola Cherry: A Touch of MagicExperience the refreshing, crisp taste of Coca-Cola Cherry. This sparkling beverage adds a touch of magic to your taste buds. Enjoy it with friends, on the go, or with a meal. Coca-Cola Cherry makes life\u2019s special moments a little bit better, bringing a smile with every sip.Fanta Orange: Iconic Citrus FlavorWith Fanta Orange ready to go, the decision is easy. Experience the taste as if it's ripe from the tree, the orangiest of orange you can imagine. This iconic citrus flavor is like a caffeine-free sunset on the beach, where you're living in the moment, shooting for the stars. Fanta has been creating delicious flavors like this for a long time, bringing an effervescent and luminescent taste to your palate.",
+            "display": "show",
+            "global_id": "4bc8576c-73fd-5cd4-96c8-ce4ef33b4e3a",
+            "global_id_int": 2209836014572365,
+            "id": 0,
+            "image_url": "https://f.wishabi.net/item-assets/3341/55b5e929f3e20a5ae1ff0b94735ef3db/small.png",
+            "item_id": "990308722",
+            "item_type": "ecom",
+            "merchant": "Sam's Club",
+            "merchant_id": 3341,
+            "merchant_logo": "https://images.wishabi.net/merchants/XPtz7sRznNx93g==/RackMultipart20200428-1-q3nyyt.jpg",
+            "name": "Coca-Cola Flavors Mini Cans Variety Pack 7.5 fl. oz., 30 pk.",
+            "original_price": null,
+            "return_info": {
+                "details_url": "",
+                "tag_line": ""
+            },
+            "score": 386.30884,
+            "shipping_info": {
+                "details_url": "",
+                "tag_line": ""
+            },
+            "shipping_tag_line": "",
+            "sku": "990308722",
             "total_reviews": 0
         },
         {
@@ -284,7 +313,7 @@
                 "details_url": "",
                 "tag_line": ""
             },
-            "score": 374.82895,
+            "score": 378.44714,
             "shipping_info": {
                 "details_url": "",
                 "tag_line": ""
@@ -313,42 +342,13 @@
                 "details_url": "",
                 "tag_line": ""
             },
-            "score": 371.94138,
+            "score": 375.43402,
             "shipping_info": {
                 "details_url": "",
                 "tag_line": ""
             },
             "shipping_tag_line": "",
             "sku": "1254428",
-            "total_reviews": 0
-        },
-        {
-            "average_rating": null,
-            "current_price": 9.29,
-            "description": "Coca-Cola Mini 10-Pack of 7.5oz Cans",
-            "display": "show",
-            "global_id": "98ee406a-e956-5ac7-87b9-f6488b203a47",
-            "global_id_int": 1386468235734326,
-            "id": 37471070,
-            "image_url": "https://f.wishabi.net/item-assets/2264/df2fef18a60ae3277723e6510f08244c/small.png",
-            "item_id": "281604",
-            "item_type": "ecom",
-            "merchant": "CVS Pharmacy",
-            "merchant_id": 2264,
-            "merchant_logo": "https://images.wishabi.net/merchants/2264/1507308958/2264.jpg",
-            "name": "Coca-Cola Mini 10-Pack of 7.5oz Cans",
-            "original_price": null,
-            "return_info": {
-                "details_url": "",
-                "tag_line": ""
-            },
-            "score": 366.77264,
-            "shipping_info": {
-                "details_url": "",
-                "tag_line": ""
-            },
-            "shipping_tag_line": "",
-            "sku": "281604",
             "total_reviews": 0
         },
         {
@@ -371,13 +371,42 @@
                 "details_url": "",
                 "tag_line": ""
             },
-            "score": 366.77264,
+            "score": 370.17743,
             "shipping_info": {
                 "details_url": "",
                 "tag_line": ""
             },
             "shipping_tag_line": "",
             "sku": "104711",
+            "total_reviews": 0
+        },
+        {
+            "average_rating": null,
+            "current_price": 9.29,
+            "description": "Coca-Cola Mini 10-Pack of 7.5oz Cans",
+            "display": "show",
+            "global_id": "98ee406a-e956-5ac7-87b9-f6488b203a47",
+            "global_id_int": 1386468235734326,
+            "id": 37471070,
+            "image_url": "https://f.wishabi.net/item-assets/2264/df2fef18a60ae3277723e6510f08244c/small.png",
+            "item_id": "281604",
+            "item_type": "ecom",
+            "merchant": "CVS Pharmacy",
+            "merchant_id": 2264,
+            "merchant_logo": "https://images.wishabi.net/merchants/2264/1507308958/2264.jpg",
+            "name": "Coca-Cola Mini 10-Pack of 7.5oz Cans",
+            "original_price": null,
+            "return_info": {
+                "details_url": "",
+                "tag_line": ""
+            },
+            "score": 370.17743,
+            "shipping_info": {
+                "details_url": "",
+                "tag_line": ""
+            },
+            "shipping_tag_line": "",
+            "sku": "281604",
             "total_reviews": 0
         },
         {
@@ -400,7 +429,7 @@
                 "details_url": "",
                 "tag_line": ""
             },
-            "score": 325.7077,
+            "score": 328.37915,
             "shipping_info": {
                 "details_url": "",
                 "tag_line": ""
@@ -429,7 +458,7 @@
                 "details_url": "",
                 "tag_line": ""
             },
-            "score": 314.8907,
+            "score": 317.19897,
             "shipping_info": {
                 "details_url": "",
                 "tag_line": ""
@@ -458,7 +487,7 @@
                 "details_url": "",
                 "tag_line": ""
             },
-            "score": 351.0108,
+            "score": 353.7749,
             "shipping_info": {
                 "details_url": "",
                 "tag_line": ""
@@ -477,7 +506,7 @@
                             "id": "all",
                             "display": "Any Store",
                             "logo_url": "",
-                            "count": 20
+                            "count": 21
                         },
                         {
                             "id": 2662,
@@ -501,7 +530,7 @@
                             "id": 3341,
                             "display": "Sam's Club",
                             "logo_url": "https://images.wishabi.net/merchants/XPtz7sRznNx93g==/RackMultipart20200428-1-q3nyyt.jpg",
-                            "count": 1
+                            "count": 2
                         },
                         {
                             "id": 2460,
@@ -521,7 +550,7 @@
                         {
                             "id": "all",
                             "display": "All Types",
-                            "count": 20
+                            "count": 21
                         },
                         {
                             "id": "flyer_items",
@@ -531,7 +560,7 @@
                         {
                             "id": "online_items",
                             "display": "Online Deals",
-                            "count": 16
+                            "count": 17
                         },
                         {
                             "id": "coupons",
@@ -572,7 +601,7 @@
             "premium": false,
             "right": 2416.7,
             "sale_story": "Buy 2 get 1 FREE\u221e with myWalgreens",
-            "score": 445.01953,
+            "score": 448.98303,
             "top": -973.4,
             "valid_from": "2025-02-09T05:00:00+00:00",
             "valid_to": "2025-02-16T04:59:59+00:00"
@@ -589,7 +618,7 @@
             "id": 910660399,
             "indexed": false,
             "item_type": "flyer",
-            "item_weight": 6.76447,
+            "item_weight": 8.37143,
             "left": 45225,
             "merchant_id": 2460,
             "merchant_logo": "http://images.wishabi.net/merchants/2460/1507309295/2460.jpg",
@@ -601,7 +630,7 @@
             "premium": false,
             "right": 45829.3,
             "sale_story": "Buy 2 get 1 FREE\u221e with myWalgreens",
-            "score": 431.7934,
+            "score": 443.91135,
             "top": -1990.83,
             "valid_from": "2025-02-09T05:00:00+00:00",
             "valid_to": "2025-02-16T04:59:59+00:00"
@@ -630,7 +659,7 @@
             "premium": false,
             "right": 34980.4,
             "sale_story": "Buy 2 get 1 FREE\u221e with myWalgreens",
-            "score": 351.77487,
+            "score": 354.9079,
             "top": -987.829,
             "valid_from": "2025-02-16T05:00:00+00:00",
             "valid_to": "2025-02-23T04:59:59+00:00"
@@ -647,7 +676,7 @@
             "id": 910660370,
             "indexed": false,
             "item_type": "flyer",
-            "item_weight": 4.04603,
+            "item_weight": 3.97313,
             "left": 41607,
             "merchant_id": 2460,
             "merchant_logo": "http://images.wishabi.net/merchants/2460/1507309295/2460.jpg",
@@ -659,7 +688,7 @@
             "premium": false,
             "right": 42214.3,
             "sale_story": "Buy 2 get 1 FREE\u221e with myWalgreens",
-            "score": 413.58026,
+            "score": 416.65695,
             "top": -973.309,
             "valid_from": "2025-02-09T05:00:00+00:00",
             "valid_to": "2025-02-16T04:59:59+00:00"
