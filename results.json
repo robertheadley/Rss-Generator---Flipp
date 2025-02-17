@@ -6,35 +6,6 @@
         {
             "average_rating": null,
             "current_price": 5.5,
-            "description": "Are you looking for a satisfying a delicious drink? Look no further than the Coca-Cola 6-Pack 16.9 oz Cherry Coke. This drink goes perfectly with any meal or when you're on the go.",
-            "display": "show",
-            "global_id": "25eeb99a-035c-590d-bffb-b9bd5c44e1e8",
-            "global_id_int": 2346302839011401,
-            "id": 34399097,
-            "image_url": "https://f.wishabi.net/item-assets/2662/72d823ac732bd3c70b81268aaf0ca4de/small.png",
-            "item_id": "1254418",
-            "item_type": "ecom",
-            "merchant": "Blain's Farm & Fleet",
-            "merchant_id": 2662,
-            "merchant_logo": "https://images.wishabi.net/merchants/2662/1507146688/2662.jpg",
-            "name": "Coca-Cola 16.9 oz 6-Pack Cherry",
-            "original_price": 7.99,
-            "return_info": {
-                "details_url": "",
-                "tag_line": ""
-            },
-            "score": 378.66486,
-            "shipping_info": {
-                "details_url": "",
-                "tag_line": ""
-            },
-            "shipping_tag_line": "",
-            "sku": "1254418",
-            "total_reviews": 0
-        },
-        {
-            "average_rating": null,
-            "current_price": 5.5,
             "description": "Soda. Pop. Soft drink. Sparkling beverage. Whatever you call it, nothing compares to the refreshing, crisp taste of Coca-Cola Original Taste, the delicious soda you know and love. Enjoy with friends, on the go or with a meal. Whatever the occasion, wherever you are, Coca-Cola Original Taste makes life's special moments a little bit better. Every sip, every \"ahhh,\" every smile-find that feeling with Coca-Cola Original Taste. Best enjoyed ice-cold for maximum refreshment. Grab a Coca-Cola Original Taste, take a sip and find your \"ahhh\" moment. Enjoy Coca-Cola Original Taste.",
             "display": "show",
             "global_id": "3e948e32-80b7-5589-84ef-c3649faf29a6",
@@ -52,13 +23,42 @@
                 "details_url": "",
                 "tag_line": ""
             },
-            "score": 381.3576,
+            "score": 384.0575,
             "shipping_info": {
                 "details_url": "",
                 "tag_line": ""
             },
             "shipping_tag_line": "",
             "sku": "1002077",
+            "total_reviews": 0
+        },
+        {
+            "average_rating": null,
+            "current_price": 5.5,
+            "description": "Are you looking for a satisfying a delicious drink? Look no further than the Coca-Cola 6-Pack 16.9 oz Cherry Coke. This drink goes perfectly with any meal or when you're on the go.",
+            "display": "show",
+            "global_id": "25eeb99a-035c-590d-bffb-b9bd5c44e1e8",
+            "global_id_int": 2346302839011401,
+            "id": 34399097,
+            "image_url": "https://f.wishabi.net/item-assets/2662/72d823ac732bd3c70b81268aaf0ca4de/small.png",
+            "item_id": "1254418",
+            "item_type": "ecom",
+            "merchant": "Blain's Farm & Fleet",
+            "merchant_id": 2662,
+            "merchant_logo": "https://images.wishabi.net/merchants/2662/1507146688/2662.jpg",
+            "name": "Coca-Cola 16.9 oz 6-Pack Cherry",
+            "original_price": 7.99,
+            "return_info": {
+                "details_url": "",
+                "tag_line": ""
+            },
+            "score": 381.3957,
+            "shipping_info": {
+                "details_url": "",
+                "tag_line": ""
+            },
+            "shipping_tag_line": "",
+            "sku": "1254418",
             "total_reviews": 0
         },
         {
@@ -81,7 +81,7 @@
                 "details_url": "",
                 "tag_line": ""
             },
-            "score": 381.8141,
+            "score": 384.51678,
             "shipping_info": {
                 "details_url": "",
                 "tag_line": ""
@@ -110,42 +110,13 @@
                 "details_url": "",
                 "tag_line": ""
             },
-            "score": 381.3576,
+            "score": 384.0575,
             "shipping_info": {
                 "details_url": "",
                 "tag_line": ""
             },
             "shipping_tag_line": "",
             "sku": "1002080",
-            "total_reviews": 0
-        },
-        {
-            "average_rating": null,
-            "current_price": 7.49,
-            "description": "Soda. Pop. Soft drink. Sparkling beverage. Whatever you call it, nothing compares to the refreshing, crisp taste of Coca-Cola Zero Sugar. Enjoy with friends, on the go or with a meal. Whatever the occasion, wherever you are, Coca-Cola Zero Sugar makes life's special moments a little bit better. Every sip, every \"ahhh,\" every smile-find that feeling with Coca-Cola Zero Sugar. Best enjoyed ice-cold for maximum refreshment. Grab a Coca-Cola Zero Sugar, take a sip and find your \"ahhh\" moment. Enjoy Coca-Cola Zero Sugar.",
-            "display": "show",
-            "global_id": "16adcd33-c247-5f8b-9803-b18b06efc7a0",
-            "global_id_int": 8939792930275936,
-            "id": 39208475,
-            "image_url": "https://f.wishabi.net/item-assets/2662/e25ab97d0e8d45e84ef0ca9b956e9807/small.png",
-            "item_id": "1494350",
-            "item_type": "ecom",
-            "merchant": "Blain's Farm & Fleet",
-            "merchant_id": 2662,
-            "merchant_logo": "https://images.wishabi.net/merchants/2662/1507146688/2662.jpg",
-            "name": "Coca-Cola 10-Pack Zero Sugar Coke",
-            "original_price": 8.99,
-            "return_info": {
-                "details_url": "",
-                "tag_line": ""
-            },
-            "score": 394.98822,
-            "shipping_info": {
-                "details_url": "",
-                "tag_line": ""
-            },
-            "shipping_tag_line": "",
-            "sku": "1494350",
             "total_reviews": 0
         },
         {
@@ -168,13 +139,42 @@
                 "details_url": "",
                 "tag_line": ""
             },
-            "score": 394.98822,
+            "score": 397.91913,
             "shipping_info": {
                 "details_url": "",
                 "tag_line": ""
             },
             "shipping_tag_line": "",
             "sku": "1494345",
+            "total_reviews": 0
+        },
+        {
+            "average_rating": null,
+            "current_price": 7.49,
+            "description": "Soda. Pop. Soft drink. Sparkling beverage. Whatever you call it, nothing compares to the refreshing, crisp taste of Coca-Cola Zero Sugar. Enjoy with friends, on the go or with a meal. Whatever the occasion, wherever you are, Coca-Cola Zero Sugar makes life's special moments a little bit better. Every sip, every \"ahhh,\" every smile-find that feeling with Coca-Cola Zero Sugar. Best enjoyed ice-cold for maximum refreshment. Grab a Coca-Cola Zero Sugar, take a sip and find your \"ahhh\" moment. Enjoy Coca-Cola Zero Sugar.",
+            "display": "show",
+            "global_id": "16adcd33-c247-5f8b-9803-b18b06efc7a0",
+            "global_id_int": 8939792930275936,
+            "id": 39208475,
+            "image_url": "https://f.wishabi.net/item-assets/2662/e25ab97d0e8d45e84ef0ca9b956e9807/small.png",
+            "item_id": "1494350",
+            "item_type": "ecom",
+            "merchant": "Blain's Farm & Fleet",
+            "merchant_id": 2662,
+            "merchant_logo": "https://images.wishabi.net/merchants/2662/1507146688/2662.jpg",
+            "name": "Coca-Cola 10-Pack Zero Sugar Coke",
+            "original_price": 8.99,
+            "return_info": {
+                "details_url": "",
+                "tag_line": ""
+            },
+            "score": 397.91913,
+            "shipping_info": {
+                "details_url": "",
+                "tag_line": ""
+            },
+            "shipping_tag_line": "",
+            "sku": "1494350",
             "total_reviews": 0
         },
         {
@@ -197,7 +197,7 @@
                 "details_url": "",
                 "tag_line": ""
             },
-            "score": 395.69464,
+            "score": 398.62427,
             "shipping_info": {
                 "details_url": "",
                 "tag_line": ""
@@ -226,7 +226,7 @@
                 "details_url": "",
                 "tag_line": ""
             },
-            "score": 392.29547,
+            "score": 395.25732,
             "shipping_info": {
                 "details_url": "",
                 "tag_line": ""
@@ -255,13 +255,42 @@
                 "details_url": "",
                 "tag_line": ""
             },
-            "score": 392.56616,
+            "score": 395.5016,
             "shipping_info": {
                 "details_url": "",
                 "tag_line": ""
             },
             "shipping_tag_line": "",
             "sku": "496707",
+            "total_reviews": 0
+        },
+        {
+            "average_rating": null,
+            "current_price": 16.98,
+            "description": "Refreshing Mini Variety PackThis Mini Variety Pack is the perfect addition to various occasions. Open a box and share these refreshing drinks with your friends and family for a break that everyone will enjoy. This pack features three delightful Coca-Cola brands: Sprite, Cherry Coke, and Fanta Orange.Sprite: Real Lemon-Lime FlavorQuench your thirst with the cool and crisp lemon-lime flavor of Sprite. It's a taste that stands apart, cutting through the noise to keep you invigorated and inspired. Sprite keeps it real with no caffeine, leaving you with an iconic flavor and the freedom to think of what's next.Coca-Cola Cherry: A Touch of MagicExperience the refreshing, crisp taste of Coca-Cola Cherry. This sparkling beverage adds a touch of magic to your taste buds. Enjoy it with friends, on the go, or with a meal. Coca-Cola Cherry makes life\u2019s special moments a little bit better, bringing a smile with every sip.Fanta Orange: Iconic Citrus FlavorWith Fanta Orange ready to go, the decision is easy. Experience the taste as if it's ripe from the tree, the orangiest of orange you can imagine. This iconic citrus flavor is like a caffeine-free sunset on the beach, where you're living in the moment, shooting for the stars. Fanta has been creating delicious flavors like this for a long time, bringing an effervescent and luminescent taste to your palate.",
+            "display": "show",
+            "global_id": "2650a2d2-6457-5748-8a79-7226dc7bc4f4",
+            "global_id_int": 3936033957021238,
+            "id": 0,
+            "image_url": "https://f.wishabi.net/item-assets/3341/55b5e929f3e20a5ae1ff0b94735ef3db/small.png",
+            "item_id": "980223293",
+            "item_type": "ecom",
+            "merchant": "Sam's Club",
+            "merchant_id": 3341,
+            "merchant_logo": "https://images.wishabi.net/merchants/XPtz7sRznNx93g==/RackMultipart20200428-1-q3nyyt.jpg",
+            "name": "Coca-Cola Flavors Mini Cans Variety Pack 7.5 fl. oz., 30 pk.",
+            "original_price": null,
+            "return_info": {
+                "details_url": "",
+                "tag_line": ""
+            },
+            "score": 389.01746,
+            "shipping_info": {
+                "details_url": "",
+                "tag_line": ""
+            },
+            "shipping_tag_line": "",
+            "sku": "980223293",
             "total_reviews": 0
         },
         {
@@ -284,7 +313,7 @@
                 "details_url": "",
                 "tag_line": ""
             },
-            "score": 386.30884,
+            "score": 389.01746,
             "shipping_info": {
                 "details_url": "",
                 "tag_line": ""
@@ -313,42 +342,13 @@
                 "details_url": "",
                 "tag_line": ""
             },
-            "score": 378.44714,
+            "score": 381.07837,
             "shipping_info": {
                 "details_url": "",
                 "tag_line": ""
             },
             "shipping_tag_line": "",
             "sku": "89910350018",
-            "total_reviews": 0
-        },
-        {
-            "average_rating": null,
-            "current_price": 8.49,
-            "description": "Are you looking for a satisfying a delicious drink? Look no further than the Coca-Cola 12-Pack Barqs Root Beer. This drink goes perfectly with any meal or when you're on the go.",
-            "display": "show",
-            "global_id": "0bad2642-0e76-53dd-8e17-6bb4f1ddc3c7",
-            "global_id_int": 962519157636877,
-            "id": 34399131,
-            "image_url": "https://f.wishabi.net/item-assets/2662/1190fc82e68968e60d61e36756970a08/small.png",
-            "item_id": "1254428",
-            "item_type": "ecom",
-            "merchant": "Blain's Farm & Fleet",
-            "merchant_id": 2662,
-            "merchant_logo": "https://images.wishabi.net/merchants/2662/1507146688/2662.jpg",
-            "name": "Coca-Cola 12-Pack Barqs Root Beer",
-            "original_price": 10.49,
-            "return_info": {
-                "details_url": "",
-                "tag_line": ""
-            },
-            "score": 375.43402,
-            "shipping_info": {
-                "details_url": "",
-                "tag_line": ""
-            },
-            "shipping_tag_line": "",
-            "sku": "1254428",
             "total_reviews": 0
         },
         {
@@ -371,7 +371,7 @@
                 "details_url": "",
                 "tag_line": ""
             },
-            "score": 370.17743,
+            "score": 372.82404,
             "shipping_info": {
                 "details_url": "",
                 "tag_line": ""
@@ -400,13 +400,42 @@
                 "details_url": "",
                 "tag_line": ""
             },
-            "score": 370.17743,
+            "score": 372.82404,
             "shipping_info": {
                 "details_url": "",
                 "tag_line": ""
             },
             "shipping_tag_line": "",
             "sku": "281604",
+            "total_reviews": 0
+        },
+        {
+            "average_rating": null,
+            "current_price": 8.49,
+            "description": "Are you looking for a satisfying a delicious drink? Look no further than the Coca-Cola 12-Pack Barqs Root Beer. This drink goes perfectly with any meal or when you're on the go.",
+            "display": "show",
+            "global_id": "0bad2642-0e76-53dd-8e17-6bb4f1ddc3c7",
+            "global_id_int": 962519157636877,
+            "id": 34399131,
+            "image_url": "https://f.wishabi.net/item-assets/2662/1190fc82e68968e60d61e36756970a08/small.png",
+            "item_id": "1254428",
+            "item_type": "ecom",
+            "merchant": "Blain's Farm & Fleet",
+            "merchant_id": 2662,
+            "merchant_logo": "https://images.wishabi.net/merchants/2662/1507146688/2662.jpg",
+            "name": "Coca-Cola 12-Pack Barqs Root Beer",
+            "original_price": 10.49,
+            "return_info": {
+                "details_url": "",
+                "tag_line": ""
+            },
+            "score": 378.15405,
+            "shipping_info": {
+                "details_url": "",
+                "tag_line": ""
+            },
+            "shipping_tag_line": "",
+            "sku": "1254428",
             "total_reviews": 0
         },
         {
@@ -429,7 +458,7 @@
                 "details_url": "",
                 "tag_line": ""
             },
-            "score": 328.37915,
+            "score": 329.89432,
             "shipping_info": {
                 "details_url": "",
                 "tag_line": ""
@@ -458,7 +487,7 @@
                 "details_url": "",
                 "tag_line": ""
             },
-            "score": 317.19897,
+            "score": 318.6609,
             "shipping_info": {
                 "details_url": "",
                 "tag_line": ""
@@ -487,7 +516,7 @@
                 "details_url": "",
                 "tag_line": ""
             },
-            "score": 353.7749,
+            "score": 355.17252,
             "shipping_info": {
                 "details_url": "",
                 "tag_line": ""
@@ -506,7 +535,7 @@
                             "id": "all",
                             "display": "Any Store",
                             "logo_url": "",
-                            "count": 21
+                            "count": 19
                         },
                         {
                             "id": 2662,
@@ -530,13 +559,13 @@
                             "id": 3341,
                             "display": "Sam's Club",
                             "logo_url": "https://images.wishabi.net/merchants/XPtz7sRznNx93g==/RackMultipart20200428-1-q3nyyt.jpg",
-                            "count": 2
+                            "count": 3
                         },
                         {
                             "id": 2460,
                             "display": "Walgreens",
                             "logo_url": "https://images.wishabi.net/merchants/2460/1507309295/2460.jpg",
-                            "count": 4
+                            "count": 1
                         }
                     ]
                 },
@@ -550,17 +579,17 @@
                         {
                             "id": "all",
                             "display": "All Types",
-                            "count": 21
+                            "count": 19
                         },
                         {
                             "id": "flyer_items",
                             "display": "Weekly Ad Deals",
-                            "count": 4
+                            "count": 1
                         },
                         {
                             "id": "online_items",
                             "display": "Online Deals",
-                            "count": 17
+                            "count": 18
                         },
                         {
                             "id": "coupons",
@@ -580,64 +609,6 @@
         {
             "_L1": "Food, Beverages & Tobacco",
             "_L2": "Beverages",
-            "bottom": -1444.68,
-            "clean_image_url": "https://f.wishabi.net/page_items/366495909/1738650718/extra_large.jpg",
-            "clipping_image_url": "https://f.wishabi.net/page_items/366495909/1738650718/extra_large.jpg",
-            "current_price": null,
-            "flyer_id": 7106166,
-            "flyer_item_id": 910660038,
-            "id": 910660038,
-            "indexed": false,
-            "item_type": "flyer",
-            "item_weight": 9.49887,
-            "left": 1809,
-            "merchant_id": 2460,
-            "merchant_logo": "http://images.wishabi.net/merchants/2460/1507309295/2460.jpg",
-            "merchant_name": "Walgreens",
-            "name": "12-Pack Coca-Cola or Dr Pepper Products",
-            "original_price": null,
-            "post_price_text": null,
-            "pre_price_text": null,
-            "premium": false,
-            "right": 2416.7,
-            "sale_story": "Buy 2 get 1 FREE\u221e with myWalgreens",
-            "score": 448.98303,
-            "top": -973.4,
-            "valid_from": "2025-02-09T05:00:00+00:00",
-            "valid_to": "2025-02-16T04:59:59+00:00"
-        },
-        {
-            "_L1": "Food, Beverages & Tobacco",
-            "_L2": "Beverages",
-            "bottom": -2477.84,
-            "clean_image_url": "https://f.wishabi.net/page_items/366496047/1738650746/extra_large.jpg",
-            "clipping_image_url": "https://f.wishabi.net/page_items/366496047/1738650746/extra_large.jpg",
-            "current_price": null,
-            "flyer_id": 7106166,
-            "flyer_item_id": 910660399,
-            "id": 910660399,
-            "indexed": false,
-            "item_type": "flyer",
-            "item_weight": 8.37143,
-            "left": 45225,
-            "merchant_id": 2460,
-            "merchant_logo": "http://images.wishabi.net/merchants/2460/1507309295/2460.jpg",
-            "merchant_name": "Walgreens",
-            "name": "6-Pack Coca-Cola Bottle Products",
-            "original_price": null,
-            "post_price_text": null,
-            "pre_price_text": null,
-            "premium": false,
-            "right": 45829.3,
-            "sale_story": "Buy 2 get 1 FREE\u221e with myWalgreens",
-            "score": 443.91135,
-            "top": -1990.83,
-            "valid_from": "2025-02-09T05:00:00+00:00",
-            "valid_to": "2025-02-16T04:59:59+00:00"
-        },
-        {
-            "_L1": "Food, Beverages & Tobacco",
-            "_L2": "Beverages",
             "bottom": -1487.67,
             "clean_image_url": "https://f.wishabi.net/page_items/366853965/1738899803/extra_large.jpg",
             "clipping_image_url": "https://f.wishabi.net/page_items/366853965/1738899803/extra_large.jpg",
@@ -647,7 +618,7 @@
             "id": 911341964,
             "indexed": false,
             "item_type": "flyer",
-            "item_weight": 0,
+            "item_weight": 2.187,
             "left": 34371,
             "merchant_id": 2460,
             "merchant_logo": "http://images.wishabi.net/merchants/2460/1507309295/2460.jpg",
@@ -659,39 +630,10 @@
             "premium": false,
             "right": 34980.4,
             "sale_story": "Buy 2 get 1 FREE\u221e with myWalgreens",
-            "score": 354.9079,
+            "score": 405.28107,
             "top": -987.829,
             "valid_from": "2025-02-16T05:00:00+00:00",
             "valid_to": "2025-02-23T04:59:59+00:00"
-        },
-        {
-            "_L1": "Food, Beverages & Tobacco",
-            "_L2": "Beverages",
-            "bottom": -1443.96,
-            "clean_image_url": "https://f.wishabi.net/page_items/366496067/1738650746/extra_large.jpg",
-            "clipping_image_url": "https://f.wishabi.net/page_items/366496067/1738650746/extra_large.jpg",
-            "current_price": null,
-            "flyer_id": 7106166,
-            "flyer_item_id": 910660370,
-            "id": 910660370,
-            "indexed": false,
-            "item_type": "flyer",
-            "item_weight": 3.97313,
-            "left": 41607,
-            "merchant_id": 2460,
-            "merchant_logo": "http://images.wishabi.net/merchants/2460/1507309295/2460.jpg",
-            "merchant_name": "Walgreens",
-            "name": "12-Pack Coca-Cola or Dr Pepper Products",
-            "original_price": null,
-            "post_price_text": null,
-            "pre_price_text": null,
-            "premium": false,
-            "right": 42214.3,
-            "sale_story": "Buy 2 get 1 FREE\u221e with myWalgreens",
-            "score": 416.65695,
-            "top": -973.309,
-            "valid_from": "2025-02-09T05:00:00+00:00",
-            "valid_to": "2025-02-16T04:59:59+00:00"
         }
     ],
     "merchants": [],
