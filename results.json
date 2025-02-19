@@ -23,7 +23,7 @@
                 "details_url": "",
                 "tag_line": ""
             },
-            "score": 383.02197,
+            "score": 376.2105,
             "shipping_info": {
                 "details_url": "",
                 "tag_line": ""
@@ -52,7 +52,7 @@
                 "details_url": "",
                 "tag_line": ""
             },
-            "score": 380.36777,
+            "score": 373.5928,
             "shipping_info": {
                 "details_url": "",
                 "tag_line": ""
@@ -81,7 +81,7 @@
                 "details_url": "",
                 "tag_line": ""
             },
-            "score": 383.49878,
+            "score": 376.69998,
             "shipping_info": {
                 "details_url": "",
                 "tag_line": ""
@@ -110,7 +110,7 @@
                 "details_url": "",
                 "tag_line": ""
             },
-            "score": 383.02197,
+            "score": 376.2105,
             "shipping_info": {
                 "details_url": "",
                 "tag_line": ""
@@ -139,7 +139,7 @@
                 "details_url": "",
                 "tag_line": ""
             },
-            "score": 396.89166,
+            "score": 389.34692,
             "shipping_info": {
                 "details_url": "",
                 "tag_line": ""
@@ -168,7 +168,7 @@
                 "details_url": "",
                 "tag_line": ""
             },
-            "score": 396.89166,
+            "score": 389.34692,
             "shipping_info": {
                 "details_url": "",
                 "tag_line": ""
@@ -197,42 +197,13 @@
                 "details_url": "",
                 "tag_line": ""
             },
-            "score": 397.59354,
+            "score": 390.04413,
             "shipping_info": {
                 "details_url": "",
                 "tag_line": ""
             },
             "shipping_tag_line": "",
             "sku": "446510",
-            "total_reviews": 0
-        },
-        {
-            "average_rating": null,
-            "current_price": 8.49,
-            "description": "Are you looking for a satisfying a delicious drink? Look no further than the Coca-Cola 12-Pack Cherry Zero Coke. This drink goes perfectly with any meal or when you're on the go.",
-            "display": "show",
-            "global_id": "40105db7-cebc-507c-b7f2-226fffe1e132",
-            "global_id_int": 8001762348282044,
-            "id": 34399114,
-            "image_url": "https://f.wishabi.net/item-assets/2662/e7b13224ba21e9ba501414644d1b166e/small.png",
-            "item_id": "1254424",
-            "item_type": "ecom",
-            "merchant": "Blain's Farm & Fleet",
-            "merchant_id": 2662,
-            "merchant_logo": "https://images.wishabi.net/merchants/2662/1507146688/2662.jpg",
-            "name": "Coca-Cola 12-Pack Cherry Zero Coke",
-            "original_price": 10.49,
-            "return_info": {
-                "details_url": "",
-                "tag_line": ""
-            },
-            "score": 394.23746,
-            "shipping_info": {
-                "details_url": "",
-                "tag_line": ""
-            },
-            "shipping_tag_line": "",
-            "sku": "1254424",
             "total_reviews": 0
         },
         {
@@ -255,13 +226,42 @@
                 "details_url": "",
                 "tag_line": ""
             },
-            "score": 394.4852,
+            "score": 386.9565,
             "shipping_info": {
                 "details_url": "",
                 "tag_line": ""
             },
             "shipping_tag_line": "",
             "sku": "496707",
+            "total_reviews": 0
+        },
+        {
+            "average_rating": null,
+            "current_price": 8.49,
+            "description": "Are you looking for a satisfying a delicious drink? Look no further than the Coca-Cola 12-Pack Cherry Zero Coke. This drink goes perfectly with any meal or when you're on the go.",
+            "display": "show",
+            "global_id": "40105db7-cebc-507c-b7f2-226fffe1e132",
+            "global_id_int": 8001762348282044,
+            "id": 34399114,
+            "image_url": "https://f.wishabi.net/item-assets/2662/e7b13224ba21e9ba501414644d1b166e/small.png",
+            "item_id": "1254424",
+            "item_type": "ecom",
+            "merchant": "Blain's Farm & Fleet",
+            "merchant_id": 2662,
+            "merchant_logo": "https://images.wishabi.net/merchants/2662/1507146688/2662.jpg",
+            "name": "Coca-Cola 12-Pack Cherry Zero Coke",
+            "original_price": 10.49,
+            "return_info": {
+                "details_url": "",
+                "tag_line": ""
+            },
+            "score": 386.72922,
+            "shipping_info": {
+                "details_url": "",
+                "tag_line": ""
+            },
+            "shipping_tag_line": "",
+            "sku": "1254424",
             "total_reviews": 0
         },
         {
@@ -284,7 +284,7 @@
                 "details_url": "",
                 "tag_line": ""
             },
-            "score": 380.06326,
+            "score": 373.35556,
             "shipping_info": {
                 "details_url": "",
                 "tag_line": ""
@@ -313,7 +313,7 @@
                 "details_url": "",
                 "tag_line": ""
             },
-            "score": 377.15463,
+            "score": 370.39578,
             "shipping_info": {
                 "details_url": "",
                 "tag_line": ""
@@ -342,7 +342,7 @@
                 "details_url": "",
                 "tag_line": ""
             },
-            "score": 371.8468,
+            "score": 365.19382,
             "shipping_info": {
                 "details_url": "",
                 "tag_line": ""
@@ -371,7 +371,7 @@
                 "details_url": "",
                 "tag_line": ""
             },
-            "score": 371.8468,
+            "score": 365.19382,
             "shipping_info": {
                 "details_url": "",
                 "tag_line": ""
@@ -400,7 +400,7 @@
                 "details_url": "",
                 "tag_line": ""
             },
-            "score": 328.98785,
+            "score": 325.63464,
             "shipping_info": {
                 "details_url": "",
                 "tag_line": ""
@@ -429,7 +429,7 @@
                 "details_url": "",
                 "tag_line": ""
             },
-            "score": 317.81268,
+            "score": 314.61795,
             "shipping_info": {
                 "details_url": "",
                 "tag_line": ""
@@ -458,42 +458,13 @@
                 "details_url": "",
                 "tag_line": ""
             },
-            "score": 387.97043,
+            "score": 381.1484,
             "shipping_info": {
                 "details_url": "",
                 "tag_line": ""
             },
             "shipping_tag_line": "",
             "sku": "990308685",
-            "total_reviews": 0
-        },
-        {
-            "average_rating": null,
-            "current_price": 16.98,
-            "description": "Refreshing Mini Variety PackThis Mini Variety Pack is the perfect addition to various occasions. Open a box and share these refreshing drinks with your friends and family for a break that everyone will enjoy. This pack features three delightful Coca-Cola brands: Sprite, Cherry Coke, and Fanta Orange.Sprite: Real Lemon-Lime FlavorQuench your thirst with the cool and crisp lemon-lime flavor of Sprite. It's a taste that stands apart, cutting through the noise to keep you invigorated and inspired. Sprite keeps it real with no caffeine, leaving you with an iconic flavor and the freedom to think of what's next.Coca-Cola Cherry: A Touch of MagicExperience the refreshing, crisp taste of Coca-Cola Cherry. This sparkling beverage adds a touch of magic to your taste buds. Enjoy it with friends, on the go, or with a meal. Coca-Cola Cherry makes life\u2019s special moments a little bit better, bringing a smile with every sip.Fanta Orange: Iconic Citrus FlavorWith Fanta Orange ready to go, the decision is easy. Experience the taste as if it's ripe from the tree, the orangiest of orange you can imagine. This iconic citrus flavor is like a caffeine-free sunset on the beach, where you're living in the moment, shooting for the stars. Fanta has been creating delicious flavors like this for a long time, bringing an effervescent and luminescent taste to your palate.",
-            "display": "show",
-            "global_id": "2650a2d2-6457-5748-8a79-7226dc7bc4f4",
-            "global_id_int": 3936033957021238,
-            "id": 0,
-            "image_url": "https://f.wishabi.net/item-assets/3341/55b5e929f3e20a5ae1ff0b94735ef3db/small.png",
-            "item_id": "980223293",
-            "item_type": "ecom",
-            "merchant": "Sam's Club",
-            "merchant_id": 3341,
-            "merchant_logo": "https://images.wishabi.net/merchants/XPtz7sRznNx93g==/RackMultipart20200428-1-q3nyyt.jpg",
-            "name": "Coca-Cola Flavors Mini Cans Variety Pack 7.5 fl. oz., 30 pk.",
-            "original_price": null,
-            "return_info": {
-                "details_url": "",
-                "tag_line": ""
-            },
-            "score": 387.97043,
-            "shipping_info": {
-                "details_url": "",
-                "tag_line": ""
-            },
-            "shipping_tag_line": "",
-            "sku": "980223293",
             "total_reviews": 0
         }
     ],
@@ -506,7 +477,7 @@
                             "id": "all",
                             "display": "Any Store",
                             "logo_url": "",
-                            "count": 18
+                            "count": 17
                         },
                         {
                             "id": 2662,
@@ -530,7 +501,7 @@
                             "id": 3341,
                             "display": "Sam's Club",
                             "logo_url": "https://images.wishabi.net/merchants/XPtz7sRznNx93g==/RackMultipart20200428-1-q3nyyt.jpg",
-                            "count": 2
+                            "count": 1
                         },
                         {
                             "id": 2460,
@@ -550,7 +521,7 @@
                         {
                             "id": "all",
                             "display": "All Types",
-                            "count": 18
+                            "count": 17
                         },
                         {
                             "id": "flyer_items",
@@ -560,7 +531,7 @@
                         {
                             "id": "online_items",
                             "display": "Online Deals",
-                            "count": 17
+                            "count": 16
                         },
                         {
                             "id": "coupons",
@@ -589,7 +560,7 @@
             "id": 911341964,
             "indexed": false,
             "item_type": "flyer",
-            "item_weight": 4.3983,
+            "item_weight": 8.00847,
             "left": 34371,
             "merchant_id": 2460,
             "merchant_logo": "http://images.wishabi.net/merchants/2460/1507309295/2460.jpg",
@@ -601,7 +572,7 @@
             "premium": false,
             "right": 34980.4,
             "sale_story": "Buy 2 get 1 FREE\u221e with myWalgreens",
-            "score": 420.83853,
+            "score": 430.6041,
             "top": -987.829,
             "valid_from": "2025-02-16T05:00:00+00:00",
             "valid_to": "2025-02-23T04:59:59+00:00"
