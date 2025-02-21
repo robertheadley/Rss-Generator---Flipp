@@ -6,35 +6,6 @@
         {
             "average_rating": null,
             "current_price": 5.5,
-            "description": "Are you looking for a satisfying a delicious drink? Look no further than the Coca-Cola 6-Pack 16.9 oz Cherry Coke. This drink goes perfectly with any meal or when you're on the go.",
-            "display": "show",
-            "global_id": "25eeb99a-035c-590d-bffb-b9bd5c44e1e8",
-            "global_id_int": 2346302839011401,
-            "id": 34399097,
-            "image_url": "https://f.wishabi.net/item-assets/2662/72d823ac732bd3c70b81268aaf0ca4de/small.png",
-            "item_id": "1254418",
-            "item_type": "ecom",
-            "merchant": "Blain's Farm & Fleet",
-            "merchant_id": 2662,
-            "merchant_logo": "https://images.wishabi.net/merchants/2662/1507146688/2662.jpg",
-            "name": "Coca-Cola 16.9 oz 6-Pack Cherry",
-            "original_price": 7.99,
-            "return_info": {
-                "details_url": "",
-                "tag_line": ""
-            },
-            "score": 383.8515,
-            "shipping_info": {
-                "details_url": "",
-                "tag_line": ""
-            },
-            "shipping_tag_line": "",
-            "sku": "1254418",
-            "total_reviews": 0
-        },
-        {
-            "average_rating": null,
-            "current_price": 5.5,
             "description": "Soda. Pop. Soft drink. Sparkling beverage. Whatever you call it, nothing compares to the refreshing, crisp taste of Coca-Cola Original Taste, the delicious soda you know and love. Enjoy with friends, on the go or with a meal. Whatever the occasion, wherever you are, Coca-Cola Original Taste makes life's special moments a little bit better. Every sip, every \"ahhh,\" every smile-find that feeling with Coca-Cola Original Taste. Best enjoyed ice-cold for maximum refreshment. Grab a Coca-Cola Original Taste, take a sip and find your \"ahhh\" moment. Enjoy Coca-Cola Original Taste.",
             "display": "show",
             "global_id": "3e948e32-80b7-5589-84ef-c3649faf29a6",
@@ -52,13 +23,42 @@
                 "details_url": "",
                 "tag_line": ""
             },
-            "score": 386.46243,
+            "score": 389.3454,
             "shipping_info": {
                 "details_url": "",
                 "tag_line": ""
             },
             "shipping_tag_line": "",
             "sku": "1002077",
+            "total_reviews": 0
+        },
+        {
+            "average_rating": null,
+            "current_price": 5.5,
+            "description": "Are you looking for a satisfying a delicious drink? Look no further than the Coca-Cola 6-Pack 16.9 oz Cherry Coke. This drink goes perfectly with any meal or when you're on the go.",
+            "display": "show",
+            "global_id": "25eeb99a-035c-590d-bffb-b9bd5c44e1e8",
+            "global_id_int": 2346302839011401,
+            "id": 34399097,
+            "image_url": "https://f.wishabi.net/item-assets/2662/72d823ac732bd3c70b81268aaf0ca4de/small.png",
+            "item_id": "1254418",
+            "item_type": "ecom",
+            "merchant": "Blain's Farm & Fleet",
+            "merchant_id": 2662,
+            "merchant_logo": "https://images.wishabi.net/merchants/2662/1507146688/2662.jpg",
+            "name": "Coca-Cola 16.9 oz 6-Pack Cherry",
+            "original_price": 7.99,
+            "return_info": {
+                "details_url": "",
+                "tag_line": ""
+            },
+            "score": 386.70667,
+            "shipping_info": {
+                "details_url": "",
+                "tag_line": ""
+            },
+            "shipping_tag_line": "",
+            "sku": "1254418",
             "total_reviews": 0
         },
         {
@@ -81,7 +81,7 @@
                 "details_url": "",
                 "tag_line": ""
             },
-            "score": 387.0804,
+            "score": 389.8947,
             "shipping_info": {
                 "details_url": "",
                 "tag_line": ""
@@ -110,42 +110,13 @@
                 "details_url": "",
                 "tag_line": ""
             },
-            "score": 386.46243,
+            "score": 389.3454,
             "shipping_info": {
                 "details_url": "",
                 "tag_line": ""
             },
             "shipping_tag_line": "",
             "sku": "1002080",
-            "total_reviews": 0
-        },
-        {
-            "average_rating": null,
-            "current_price": 7.49,
-            "description": "Soda. Pop. Soft drink. Sparkling beverage. Whatever you call it, nothing compares to the refreshing, crisp taste of Coca-Cola Original Taste, the delicious soda you know and love. Enjoy with friends, on the go or with a meal. Whatever the occasion, wherever you are, Coca-Cola Original Taste makes life's special moments a little bit better. Every sip, every \"ahhh,\" every smile-find that feeling with Coca-Cola Original Taste. Best enjoyed ice-cold for maximum refreshment. Grab a Coca-Cola Original Taste, take a sip and find your \"ahhh\" moment. Enjoy Coca-Cola Original Taste.",
-            "display": "show",
-            "global_id": "fb084ea1-3acf-5b38-86dd-a1c1897eb226",
-            "global_id_int": 7635558843201421,
-            "id": 39208472,
-            "image_url": "https://f.wishabi.net/item-assets/2662/78d02a03cf9e699bc9cc6c99581159bd/small.png",
-            "item_id": "1494345",
-            "item_type": "ecom",
-            "merchant": "Blain's Farm & Fleet",
-            "merchant_id": 2662,
-            "merchant_logo": "https://images.wishabi.net/merchants/2662/1507146688/2662.jpg",
-            "name": "Coca-Cola 10-Pack Classic Mini Coke",
-            "original_price": 8.99,
-            "return_info": {
-                "details_url": "",
-                "tag_line": ""
-            },
-            "score": 400.25192,
-            "shipping_info": {
-                "details_url": "",
-                "tag_line": ""
-            },
-            "shipping_tag_line": "",
-            "sku": "1494345",
             "total_reviews": 0
         },
         {
@@ -168,13 +139,42 @@
                 "details_url": "",
                 "tag_line": ""
             },
-            "score": 400.25192,
+            "score": 403.36304,
             "shipping_info": {
                 "details_url": "",
                 "tag_line": ""
             },
             "shipping_tag_line": "",
             "sku": "1494350",
+            "total_reviews": 0
+        },
+        {
+            "average_rating": null,
+            "current_price": 7.49,
+            "description": "Soda. Pop. Soft drink. Sparkling beverage. Whatever you call it, nothing compares to the refreshing, crisp taste of Coca-Cola Original Taste, the delicious soda you know and love. Enjoy with friends, on the go or with a meal. Whatever the occasion, wherever you are, Coca-Cola Original Taste makes life's special moments a little bit better. Every sip, every \"ahhh,\" every smile-find that feeling with Coca-Cola Original Taste. Best enjoyed ice-cold for maximum refreshment. Grab a Coca-Cola Original Taste, take a sip and find your \"ahhh\" moment. Enjoy Coca-Cola Original Taste.",
+            "display": "show",
+            "global_id": "fb084ea1-3acf-5b38-86dd-a1c1897eb226",
+            "global_id_int": 7635558843201421,
+            "id": 39208472,
+            "image_url": "https://f.wishabi.net/item-assets/2662/78d02a03cf9e699bc9cc6c99581159bd/small.png",
+            "item_id": "1494345",
+            "item_type": "ecom",
+            "merchant": "Blain's Farm & Fleet",
+            "merchant_id": 2662,
+            "merchant_logo": "https://images.wishabi.net/merchants/2662/1507146688/2662.jpg",
+            "name": "Coca-Cola 10-Pack Classic Mini Coke",
+            "original_price": 8.99,
+            "return_info": {
+                "details_url": "",
+                "tag_line": ""
+            },
+            "score": 403.36304,
+            "shipping_info": {
+                "details_url": "",
+                "tag_line": ""
+            },
+            "shipping_tag_line": "",
+            "sku": "1494345",
             "total_reviews": 0
         },
         {
@@ -197,7 +197,7 @@
                 "details_url": "",
                 "tag_line": ""
             },
-            "score": 400.95782,
+            "score": 404.06903,
             "shipping_info": {
                 "details_url": "",
                 "tag_line": ""
@@ -226,7 +226,7 @@
                 "details_url": "",
                 "tag_line": ""
             },
-            "score": 397.641,
+            "score": 400.7243,
             "shipping_info": {
                 "details_url": "",
                 "tag_line": ""
@@ -255,7 +255,7 @@
                 "details_url": "",
                 "tag_line": ""
             },
-            "score": 397.8316,
+            "score": 400.9424,
             "shipping_info": {
                 "details_url": "",
                 "tag_line": ""
@@ -284,7 +284,7 @@
                 "details_url": "",
                 "tag_line": ""
             },
-            "score": 391.57263,
+            "score": 394.39102,
             "shipping_info": {
                 "details_url": "",
                 "tag_line": ""
@@ -313,7 +313,7 @@
                 "details_url": "",
                 "tag_line": ""
             },
-            "score": 383.59946,
+            "score": 386.3582,
             "shipping_info": {
                 "details_url": "",
                 "tag_line": ""
@@ -342,7 +342,7 @@
                 "details_url": "",
                 "tag_line": ""
             },
-            "score": 380.65042,
+            "score": 383.48883,
             "shipping_info": {
                 "details_url": "",
                 "tag_line": ""
@@ -371,7 +371,7 @@
                 "details_url": "",
                 "tag_line": ""
             },
-            "score": 375.33575,
+            "score": 378.09338,
             "shipping_info": {
                 "details_url": "",
                 "tag_line": ""
@@ -400,7 +400,7 @@
                 "details_url": "",
                 "tag_line": ""
             },
-            "score": 375.33575,
+            "score": 378.09338,
             "shipping_info": {
                 "details_url": "",
                 "tag_line": ""
@@ -429,7 +429,7 @@
                 "details_url": "",
                 "tag_line": ""
             },
-            "score": 332.98047,
+            "score": 334.95032,
             "shipping_info": {
                 "details_url": "",
                 "tag_line": ""
@@ -458,7 +458,7 @@
                 "details_url": "",
                 "tag_line": ""
             },
-            "score": 321.8538,
+            "score": 323.6983,
             "shipping_info": {
                 "details_url": "",
                 "tag_line": ""
@@ -487,7 +487,7 @@
                 "details_url": "",
                 "tag_line": ""
             },
-            "score": 358.6458,
+            "score": 360.62018,
             "shipping_info": {
                 "details_url": "",
                 "tag_line": ""
@@ -589,7 +589,7 @@
             "id": 911341964,
             "indexed": false,
             "item_type": "flyer",
-            "item_weight": 8.00847,
+            "item_weight": 9.42597,
             "left": 34371,
             "merchant_id": 2460,
             "merchant_logo": "http://images.wishabi.net/merchants/2460/1507309295/2460.jpg",
@@ -601,7 +601,7 @@
             "premium": false,
             "right": 34980.4,
             "sale_story": "Buy 2 get 1 FREE\u221e with myWalgreens",
-            "score": 448.4681,
+            "score": 458.2325,
             "top": -987.829,
             "valid_from": "2025-02-16T05:00:00+00:00",
             "valid_to": "2025-02-23T04:59:59+00:00"
@@ -630,7 +630,7 @@
             "premium": false,
             "right": 37396.5,
             "sale_story": "Buy 2 get 1 FREE\u221e with myWalgreens",
-            "score": 359.97012,
+            "score": 362.47183,
             "top": -1502.29,
             "valid_from": "2025-02-23T05:00:00+00:00",
             "valid_to": "2025-03-02T04:59:59+00:00"
