@@ -23,7 +23,7 @@
                 "details_url": "",
                 "tag_line": ""
             },
-            "score": 389.4622,
+            "score": 387.922,
             "shipping_info": {
                 "details_url": "",
                 "tag_line": ""
@@ -52,7 +52,7 @@
                 "details_url": "",
                 "tag_line": ""
             },
-            "score": 386.89185,
+            "score": 385.26996,
             "shipping_info": {
                 "details_url": "",
                 "tag_line": ""
@@ -81,7 +81,7 @@
                 "details_url": "",
                 "tag_line": ""
             },
-            "score": 389.4622,
+            "score": 387.922,
             "shipping_info": {
                 "details_url": "",
                 "tag_line": ""
@@ -110,42 +110,13 @@
                 "details_url": "",
                 "tag_line": ""
             },
-            "score": 404.20828,
+            "score": 402.59814,
             "shipping_info": {
                 "details_url": "",
                 "tag_line": ""
             },
             "shipping_tag_line": "",
             "sku": "1494346",
-            "total_reviews": 0
-        },
-        {
-            "average_rating": null,
-            "current_price": 7.49,
-            "description": "Soda. Pop. Soft drink. Sparkling beverage. Whatever you call it, nothing compares to the refreshing, crisp taste of Coca-Cola Original Taste, the delicious soda you know and love. Enjoy with friends, on the go or with a meal. Whatever the occasion, wherever you are, Coca-Cola Original Taste makes life's special moments a little bit better. Every sip, every \"ahhh,\" every smile-find that feeling with Coca-Cola Original Taste. Best enjoyed ice-cold for maximum refreshment. Grab a Coca-Cola Original Taste, take a sip and find your \"ahhh\" moment. Enjoy Coca-Cola Original Taste.",
-            "display": "show",
-            "global_id": "fb084ea1-3acf-5b38-86dd-a1c1897eb226",
-            "global_id_int": 7635558843201421,
-            "id": 39208472,
-            "image_url": "https://f.wishabi.net/item-assets/2662/78d02a03cf9e699bc9cc6c99581159bd/small.png",
-            "item_id": "1494345",
-            "item_type": "ecom",
-            "merchant": "Blain's Farm & Fleet",
-            "merchant_id": 2662,
-            "merchant_logo": "https://images.wishabi.net/merchants/2662/1507146688/2662.jpg",
-            "name": "Coca-Cola 10-Pack Classic Mini Coke",
-            "original_price": 8.99,
-            "return_info": {
-                "details_url": "",
-                "tag_line": ""
-            },
-            "score": 403.50983,
-            "shipping_info": {
-                "details_url": "",
-                "tag_line": ""
-            },
-            "shipping_tag_line": "",
-            "sku": "1494345",
             "total_reviews": 0
         },
         {
@@ -168,13 +139,42 @@
                 "details_url": "",
                 "tag_line": ""
             },
-            "score": 403.50983,
+            "score": 401.8933,
             "shipping_info": {
                 "details_url": "",
                 "tag_line": ""
             },
             "shipping_tag_line": "",
             "sku": "1494350",
+            "total_reviews": 0
+        },
+        {
+            "average_rating": null,
+            "current_price": 7.49,
+            "description": "Soda. Pop. Soft drink. Sparkling beverage. Whatever you call it, nothing compares to the refreshing, crisp taste of Coca-Cola Original Taste, the delicious soda you know and love. Enjoy with friends, on the go or with a meal. Whatever the occasion, wherever you are, Coca-Cola Original Taste makes life's special moments a little bit better. Every sip, every \"ahhh,\" every smile-find that feeling with Coca-Cola Original Taste. Best enjoyed ice-cold for maximum refreshment. Grab a Coca-Cola Original Taste, take a sip and find your \"ahhh\" moment. Enjoy Coca-Cola Original Taste.",
+            "display": "show",
+            "global_id": "fb084ea1-3acf-5b38-86dd-a1c1897eb226",
+            "global_id_int": 7635558843201421,
+            "id": 39208472,
+            "image_url": "https://f.wishabi.net/item-assets/2662/78d02a03cf9e699bc9cc6c99581159bd/small.png",
+            "item_id": "1494345",
+            "item_type": "ecom",
+            "merchant": "Blain's Farm & Fleet",
+            "merchant_id": 2662,
+            "merchant_logo": "https://images.wishabi.net/merchants/2662/1507146688/2662.jpg",
+            "name": "Coca-Cola 10-Pack Classic Mini Coke",
+            "original_price": 8.99,
+            "return_info": {
+                "details_url": "",
+                "tag_line": ""
+            },
+            "score": 401.8933,
+            "shipping_info": {
+                "details_url": "",
+                "tag_line": ""
+            },
+            "shipping_tag_line": "",
+            "sku": "1494345",
             "total_reviews": 0
         },
         {
@@ -197,7 +197,7 @@
                 "details_url": "",
                 "tag_line": ""
             },
-            "score": 401.11508,
+            "score": 399.47662,
             "shipping_info": {
                 "details_url": "",
                 "tag_line": ""
@@ -226,7 +226,7 @@
                 "details_url": "",
                 "tag_line": ""
             },
-            "score": 400.93948,
+            "score": 399.24127,
             "shipping_info": {
                 "details_url": "",
                 "tag_line": ""
@@ -255,7 +255,7 @@
                 "details_url": "",
                 "tag_line": ""
             },
-            "score": 404.20828,
+            "score": 402.59814,
             "shipping_info": {
                 "details_url": "",
                 "tag_line": ""
@@ -284,7 +284,7 @@
                 "details_url": "",
                 "tag_line": ""
             },
-            "score": 335.70752,
+            "score": 334.33875,
             "shipping_info": {
                 "details_url": "",
                 "tag_line": ""
@@ -313,7 +313,7 @@
                 "details_url": "",
                 "tag_line": ""
             },
-            "score": 383.67737,
+            "score": 382.05286,
             "shipping_info": {
                 "details_url": "",
                 "tag_line": ""
@@ -342,42 +342,13 @@
                 "details_url": "",
                 "tag_line": ""
             },
-            "score": 378.31308,
+            "score": 376.71118,
             "shipping_info": {
                 "details_url": "",
                 "tag_line": ""
             },
             "shipping_tag_line": "",
             "sku": "281604",
-            "total_reviews": 0
-        },
-        {
-            "average_rating": null,
-            "current_price": 16.98,
-            "description": "Refreshing Mini Variety PackThis Mini Variety Pack is the perfect addition to various occasions. Open a box and share these refreshing drinks with your friends and family for a break that everyone will enjoy. This pack features three delightful Coca-Cola brands: Sprite, Cherry Coke, and Fanta Orange.Sprite: Real Lemon-Lime FlavorQuench your thirst with the cool and crisp lemon-lime flavor of Sprite. It's a taste that stands apart, cutting through the noise to keep you invigorated and inspired. Sprite keeps it real with no caffeine, leaving you with an iconic flavor and the freedom to think of what's next.Coca-Cola Cherry: A Touch of MagicExperience the refreshing, crisp taste of Coca-Cola Cherry. This sparkling beverage adds a touch of magic to your taste buds. Enjoy it with friends, on the go, or with a meal. Coca-Cola Cherry makes life\u2019s special moments a little bit better, bringing a smile with every sip.Fanta Orange: Iconic Citrus FlavorWith Fanta Orange ready to go, the decision is easy. Experience the taste as if it's ripe from the tree, the orangiest of orange you can imagine. This iconic citrus flavor is like a caffeine-free sunset on the beach, where you're living in the moment, shooting for the stars. Fanta has been creating delicious flavors like this for a long time, bringing an effervescent and luminescent taste to your palate.",
-            "display": "show",
-            "global_id": "2bda96d2-b14f-5372-9a68-21a238567f1a",
-            "global_id_int": 5095410549378604,
-            "id": 0,
-            "image_url": "https://f.wishabi.net/item-assets/3341/55b5e929f3e20a5ae1ff0b94735ef3db/small.png",
-            "item_id": "990308712",
-            "item_type": "ecom",
-            "merchant": "Sam's Club",
-            "merchant_id": 3341,
-            "merchant_logo": "https://images.wishabi.net/merchants/XPtz7sRznNx93g==/RackMultipart20200428-1-q3nyyt.jpg",
-            "name": "Coca-Cola Flavors Mini Cans Variety Pack 7.5 fl. oz., 30 pk.",
-            "original_price": null,
-            "return_info": {
-                "details_url": "",
-                "tag_line": ""
-            },
-            "score": 394.47504,
-            "shipping_info": {
-                "details_url": "",
-                "tag_line": ""
-            },
-            "shipping_tag_line": "",
-            "sku": "990308712",
             "total_reviews": 0
         },
         {
@@ -400,13 +371,42 @@
                 "details_url": "",
                 "tag_line": ""
             },
-            "score": 394.47504,
+            "score": 392.92566,
             "shipping_info": {
                 "details_url": "",
                 "tag_line": ""
             },
             "shipping_tag_line": "",
             "sku": "990308735",
+            "total_reviews": 0
+        },
+        {
+            "average_rating": null,
+            "current_price": 16.98,
+            "description": "Refreshing Mini Variety PackThis Mini Variety Pack is the perfect addition to various occasions. Open a box and share these refreshing drinks with your friends and family for a break that everyone will enjoy. This pack features three delightful Coca-Cola brands: Sprite, Cherry Coke, and Fanta Orange.Sprite: Real Lemon-Lime FlavorQuench your thirst with the cool and crisp lemon-lime flavor of Sprite. It's a taste that stands apart, cutting through the noise to keep you invigorated and inspired. Sprite keeps it real with no caffeine, leaving you with an iconic flavor and the freedom to think of what's next.Coca-Cola Cherry: A Touch of MagicExperience the refreshing, crisp taste of Coca-Cola Cherry. This sparkling beverage adds a touch of magic to your taste buds. Enjoy it with friends, on the go, or with a meal. Coca-Cola Cherry makes life\u2019s special moments a little bit better, bringing a smile with every sip.Fanta Orange: Iconic Citrus FlavorWith Fanta Orange ready to go, the decision is easy. Experience the taste as if it's ripe from the tree, the orangiest of orange you can imagine. This iconic citrus flavor is like a caffeine-free sunset on the beach, where you're living in the moment, shooting for the stars. Fanta has been creating delicious flavors like this for a long time, bringing an effervescent and luminescent taste to your palate.",
+            "display": "show",
+            "global_id": "1b085970-0c06-5c66-b414-bd5b425a6862",
+            "global_id_int": 735150449225600,
+            "id": 0,
+            "image_url": "https://f.wishabi.net/item-assets/3341/55b5e929f3e20a5ae1ff0b94735ef3db/small.png",
+            "item_id": "990297329",
+            "item_type": "ecom",
+            "merchant": "Sam's Club",
+            "merchant_id": 3341,
+            "merchant_logo": "https://images.wishabi.net/merchants/XPtz7sRznNx93g==/RackMultipart20200428-1-q3nyyt.jpg",
+            "name": "Coca-Cola Flavors Mini Cans Variety Pack 7.5 fl. oz., 30 pk.",
+            "original_price": null,
+            "return_info": {
+                "details_url": "",
+                "tag_line": ""
+            },
+            "score": 392.92566,
+            "shipping_info": {
+                "details_url": "",
+                "tag_line": ""
+            },
+            "shipping_tag_line": "",
+            "sku": "990297329",
             "total_reviews": 0
         },
         {
@@ -429,7 +429,7 @@
                 "details_url": "",
                 "tag_line": ""
             },
-            "score": 386.48953,
+            "score": 384.96252,
             "shipping_info": {
                 "details_url": "",
                 "tag_line": ""
@@ -458,7 +458,7 @@
                 "details_url": "",
                 "tag_line": ""
             },
-            "score": 378.31308,
+            "score": 376.71118,
             "shipping_info": {
                 "details_url": "",
                 "tag_line": ""
@@ -487,7 +487,7 @@
                 "details_url": "",
                 "tag_line": ""
             },
-            "score": 324.5584,
+            "score": 323.12793,
             "shipping_info": {
                 "details_url": "",
                 "tag_line": ""
@@ -501,11 +501,11 @@
             "current_price": 35.68,
             "description": "The taste of Coca-Cola\u00ae drinks in the glass bottle is an unmatched flavor and a refreshing summer beverage. Something about the original taste hasn't been completely replicated. The Coca-Cola de Mexico Variety Pack is a combination of Coca-Cola, Sprite\u00ae and Fanta\u00ae. Each item in the variety pack comes in the classic Coke bottle. The Coca-Cola flavor has the original red label with original lettering and is in a clear glass bottle. The Sprite flavor is in a green glass bottle and has no label. The Fanta flavor is in a clear glass bottle and has the Orange Fanta label.Where Are the Products in the Coca-Cola de Mexico Variety Pack Made?Each of the Coca-Cola drinks in this variety pack is made in Mexico.Can I Recycle the Coca Cola Bottles for Sale in the Variety Pack?Yes! Glass is a very simple material to recycle, however, these bottles are so attractive that they are fun and easy to reuse. The classic shape and design of the coke bottle make a great decoration because it has a vintage feel to it. Trending styles for kitchen decorations today follow the industrial and vintage look with the old marketing posters of food items.",
             "display": "show",
-            "global_id": "dc26a9bb-5cd7-5950-bc6e-29bc1719176c",
-            "global_id_int": 6195281048735137,
+            "global_id": "a9f27571-3ca9-563d-96f5-23bfb585a368",
+            "global_id_int": 7333328016237778,
             "id": 0,
             "image_url": "https://f.wishabi.net/item-assets/3341/b3eecba59de9aee15b978201224663f6/small.png",
-            "item_id": "622257",
+            "item_id": "743829",
             "item_type": "ecom",
             "merchant": "Sam's Club",
             "merchant_id": 3341,
@@ -516,13 +516,13 @@
                 "details_url": "",
                 "tag_line": ""
             },
-            "score": 360.9979,
+            "score": 359.63223,
             "shipping_info": {
                 "details_url": "",
                 "tag_line": ""
             },
             "shipping_tag_line": "",
-            "sku": "622257",
+            "sku": "743829",
             "total_reviews": 0
         },
         {
@@ -545,7 +545,7 @@
                 "details_url": "",
                 "tag_line": ""
             },
-            "score": 360.9979,
+            "score": 359.63223,
             "shipping_info": {
                 "details_url": "",
                 "tag_line": ""
@@ -564,7 +564,7 @@
                             "id": "all",
                             "display": "Any Store",
                             "logo_url": "",
-                            "count": 22
+                            "count": 21
                         },
                         {
                             "id": 2662,
@@ -594,7 +594,7 @@
                             "id": 2460,
                             "display": "Walgreens",
                             "logo_url": "https://images.wishabi.net/merchants/2460/1507309295/2460.jpg",
-                            "count": 3
+                            "count": 2
                         }
                     ]
                 },
@@ -608,12 +608,12 @@
                         {
                             "id": "all",
                             "display": "All Types",
-                            "count": 22
+                            "count": 21
                         },
                         {
                             "id": "flyer_items",
                             "display": "Weekly Ad Deals",
-                            "count": 3
+                            "count": 2
                         },
                         {
                             "id": "online_items",
@@ -647,7 +647,7 @@
             "id": 914202281,
             "indexed": false,
             "item_type": "flyer",
-            "item_weight": 51.84,
+            "item_weight": 70.956,
             "left": 37989,
             "merchant_id": 2460,
             "merchant_logo": "http://images.wishabi.net/merchants/2460/1507309295/2460.jpg",
@@ -659,39 +659,10 @@
             "premium": false,
             "right": 38597.3,
             "sale_story": null,
-            "score": 539.97675,
+            "score": 552.1225,
             "top": -1476.56,
             "valid_from": "2025-03-02T05:00:00+00:00",
             "valid_to": "2025-03-09T04:59:59+00:00"
-        },
-        {
-            "_L1": "Food, Beverages & Tobacco",
-            "_L2": "Beverages",
-            "bottom": -1980.88,
-            "clean_image_url": "https://f.wishabi.net/page_items/367509840/1739435977/extra_large.jpg",
-            "clipping_image_url": "https://f.wishabi.net/page_items/367509840/1739435977/extra_large.jpg",
-            "current_price": null,
-            "flyer_id": 7119192,
-            "flyer_item_id": 912358987,
-            "id": 912358987,
-            "indexed": false,
-            "item_type": "flyer",
-            "item_weight": 6.22274,
-            "left": 36782,
-            "merchant_id": 2460,
-            "merchant_logo": "http://images.wishabi.net/merchants/2460/1507309295/2460.jpg",
-            "merchant_name": "Walgreens",
-            "name": "6-Pack Coca-Cola Bottle Products",
-            "original_price": null,
-            "post_price_text": null,
-            "pre_price_text": null,
-            "premium": false,
-            "right": 37396.5,
-            "sale_story": "Buy 2 get 1 FREE\u221e with myWalgreens",
-            "score": 442.53638,
-            "top": -1502.29,
-            "valid_from": "2025-02-23T05:00:00+00:00",
-            "valid_to": "2025-03-02T04:59:59+00:00"
         },
         {
             "_L1": "Food, Beverages & Tobacco",
@@ -705,7 +676,7 @@
             "id": 914193857,
             "indexed": false,
             "item_type": "flyer",
-            "item_weight": 19.602,
+            "item_weight": 29.7918,
             "left": 1809,
             "merchant_id": 2460,
             "merchant_logo": "http://images.wishabi.net/merchants/2460/1507309295/2460.jpg",
@@ -717,7 +688,7 @@
             "premium": false,
             "right": 2412.81,
             "sale_story": null,
-            "score": 491.43912,
+            "score": 507.19183,
             "top": -2.06635,
             "valid_from": "2025-03-02T05:00:00+00:00",
             "valid_to": "2025-03-09T04:59:59+00:00"
